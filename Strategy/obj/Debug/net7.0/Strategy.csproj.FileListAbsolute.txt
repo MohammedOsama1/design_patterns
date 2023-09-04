@@ -1,0 +1,15 @@
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\bin\Debug\net7.0\Strategy.exe
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\bin\Debug\net7.0\Strategy.deps.json
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\bin\Debug\net7.0\Strategy.dll
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\bin\Debug\net7.0\Strategy.pdb
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.dll
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.pdb
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+C:\Users\osama.MAHAM\source\repos\ConsoleApp1\Strategy\obj\Debug\net7.0\ref\Strategy.dll
